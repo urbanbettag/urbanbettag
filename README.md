@@ -39,6 +39,10 @@ athlete logs what they actually did, and both talk about it against the session 
 🌧️ **Rainmaker** - A personal opportunity pipeline: leads, contacts and postings tracked from first
 lead to signed offer, with "best next actions" across the funnel.
 
+🍅 **Pomodoro Timer** - A native macOS focus timer that looks like a split-flap flip clock: focus
+counts down on top, the break below, set with rotary dials and started with a big red slot-machine
+button. Keeps counting in the menu bar when the window is closed.
+
 ---
 
 Most repositories are private. If one of them sounds useful, get in touch.
