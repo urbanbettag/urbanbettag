@@ -43,9 +43,11 @@ lead to signed offer, with "best next actions" across the funnel.
 counts down on top, the break below, set with rotary dials and started with a big red slot-machine
 button. Keeps counting in the menu bar when the window is closed.
 
-✅ **Cadence** - My personal task manager, now a native macOS app: dashboard, weekly progress
-rings, calendar, projects by client, recurring tasks and a Pomodoro timer that logs focus time
-against each task. No login; the data stays in one file on my Mac.
+🧊 **Urbanite Planner** (formerly Cadence) - *Plan the day · keep the rhythm.* A private Mac task
+manager in Urbanite Consulting's navy and brass: a Today view, weekly progress rings, calendar,
+projects by client, daily and recurring tasks, menu-bar quick add, and a focus timer whose time
+rolls up into reports by client and project. No login; the data stays on the Mac, backed up daily.
+Being prepared for the Mac App Store.
 
 ---
 
