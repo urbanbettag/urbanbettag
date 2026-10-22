@@ -39,12 +39,12 @@ athlete logs what they actually did, and both talk about it against the session 
 🌧️ **Rainmaker** - A personal opportunity pipeline: leads, contacts and postings tracked from first
 lead to signed offer, with "best next actions" across the funnel.
 
-⏱️ **Urbanite Focus** (formerly Pomodoro Timer) - *Focus, then take a break.* A native macOS focus
+⏱️ **Urbanite Focus** - *Focus, then take a break.* A native macOS focus
 timer that looks like a split-flap flip clock: focus counts down on top, the break below, set with
 rotary dials and started with a big red slot-machine button. Keeps counting in the menu bar when
 the window is closed. Sandboxed and private; being prepared as a free Mac App Store app.
 
-🧊 **Urbanite Planner** (formerly Cadence) - *Plan the day · keep the rhythm.* A private Mac task
+🧊 **Urbanite Planner** - *Plan the day · keep the rhythm.* A private Mac task
 manager in Urbanite Consulting's navy and brass: a Today view, weekly progress rings, calendar,
 projects by client, daily and recurring tasks, menu-bar quick add, and a focus timer whose time
 rolls up into reports by client and project. No login; the data stays on the Mac, backed up daily.
