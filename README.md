@@ -43,6 +43,10 @@ lead to signed offer, with "best next actions" across the funnel.
 counts down on top, the break below, set with rotary dials and started with a big red slot-machine
 button. Keeps counting in the menu bar when the window is closed.
 
+✅ **Cadence** - My personal task manager, now a native macOS app: dashboard, weekly progress
+rings, calendar, projects by client, recurring tasks and a Pomodoro timer that logs focus time
+against each task. No login; the data stays in one file on my Mac.
+
 ---
 
 Most repositories are private. If one of them sounds useful, get in touch.
