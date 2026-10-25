@@ -29,8 +29,8 @@ transformation work, local-first with a secured server behind it.
 
 ## 🧰 The Urbanite toolbox
 
-The native Mac apps Urbanite Consulting works with every day: one navy-and-brass family, no
-logins, and the data stays on the Mac.
+The tools Urbanite Consulting works with every day: native Mac apps in one navy-and-brass family,
+with no logins and the data kept on the Mac, and a set of assistant skills for client deliverables.
 
 🧊 **Urbanite Planner** - *Plan the day · keep the rhythm.* A private Mac task
 manager in Urbanite Consulting's navy and brass: a Today view, weekly progress rings, calendar,
@@ -48,6 +48,11 @@ Niklas Luhmann's manner: notes as yellowed index cards typed in American Typewri
 one another and linked with reasons, signal clips for what needs attention, a keyword register,
 structure notes, spaced review and cards read aloud. Plain Markdown files in a folder of my own; no
 login, no network.
+
+🧩 **Urbanite Skills** - *From brief to boardroom-ready page.* Ten assistant skills that turn a brief
+into a one-page client deliverable in one house style: a 30-60-90 plan, risk matrix, SteerCo status
+report, options appraisal, prioritisation 2×2, key design decision, problem statement, benefits map,
+approach on a page and current-versus-future state, each leading with the "so what".
 
 ---
 
