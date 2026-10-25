@@ -47,7 +47,7 @@ the window is closed. Sandboxed and private; being prepared as a free Mac App St
 Niklas Luhmann's manner: notes as yellowed index cards typed in American Typewriter, filed behind
 one another and linked with reasons, signal clips for what needs attention, a keyword register,
 structure notes, spaced review and cards read aloud. Plain Markdown files in a folder of my own; no
-login, no network. A Claude skill posts reading notes straight into its Inbox.
+login, no network.
 
 ---
 
