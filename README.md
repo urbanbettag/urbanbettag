@@ -50,6 +50,12 @@ projects by client, daily and recurring tasks, menu-bar quick add, and a focus t
 rolls up into reports by client and project. No login; the data stays on the Mac, backed up daily.
 Being prepared for the Mac App Store.
 
+🗂️ **Urbanite Cards** - *Learn by writing, one idea per card.* A private Mac Zettelkasten in
+Niklas Luhmann's manner: notes as yellowed index cards typed in American Typewriter, filed behind
+one another and linked with reasons, signal clips for what needs attention, a keyword register,
+structure notes, spaced review and cards read aloud. Plain Markdown files in a folder of my own; no
+login, no network. A Claude skill posts reading notes straight into its Inbox.
+
 ---
 
 Most repositories are private. If one of them sounds useful, get in touch.
